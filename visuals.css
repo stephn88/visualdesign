@@ -26,9 +26,9 @@ p {
 
 img {
   display: block;
+  justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  justify-content: center;
 }
 
 li {
